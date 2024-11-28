@@ -14,7 +14,7 @@ __Tech Stack__
 - [ostris/flux-dev-lora-trainer](https://replicate.com/ostris/flux-dev-lora-trainer). Model made to allow you to fine-tune FLUX with your own images (pre-trained model designed for your training)
 
 ## Tutorial
-- Coming soon
+- [Let's build a AI Photo Generator with Python and FastAPI](https://www.youtube.com/watch?v=lV82LDKT16A)
 
 ## Getting Started
 
